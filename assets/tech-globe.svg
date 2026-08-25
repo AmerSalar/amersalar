@@ -1,0 +1,73 @@
+<svg viewBox="0 0 700 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated globe with orbiting tech nodes">
+  <defs>
+    <radialGradient id="globeGradDark" cx="38%" cy="35%" r="75%">
+      <stop offset="0%" stop-color="#f3f4f6" stop-opacity="0.85"/>
+      <stop offset="55%" stop-color="#9ca3af" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#6b7280" stop-opacity="0.65"/>
+    </radialGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- twinkling stars -->
+  <g fill="#e0e7ff">
+    <circle cx="60" cy="40" r="1.4"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.2s" begin="0s" repeatCount="indefinite"/></circle>
+    <circle cx="120" cy="90" r="1.1"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.6s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle cx="90" cy="180" r="1.3"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.8s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="180" cy="220" r="1"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.9s" begin="0.7s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="45" r="1.4"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.1s" begin="0.2s" repeatCount="indefinite"/></circle>
+    <circle cx="640" cy="110" r="1.1"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle cx="580" cy="200" r="1.3"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.5s" begin="1.3s" repeatCount="indefinite"/></circle>
+    <circle cx="520" cy="30" r="1"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.7s" begin="0.5s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="30" r="1"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.3s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle cx="650" cy="230" r="1.2"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.5s" begin="0.3s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- soft glow behind globe -->
+  <circle cx="350" cy="130" r="130" fill="url(#glow)"/>
+
+  <!-- orbit guide paths -->
+  <ellipse cx="350" cy="130" rx="185" ry="60" fill="none" stroke="#818cf8" stroke-opacity="0.25" stroke-width="1" stroke-dasharray="2 6"/>
+  <ellipse cx="350" cy="130" rx="145" ry="95" fill="none" stroke="#f472b6" stroke-opacity="0.2" stroke-width="1" stroke-dasharray="2 6"/>
+
+  <!-- globe -->
+  <g>
+    <circle cx="350" cy="130" r="76" fill="url(#globeGradDark)" stroke="#e5e7eb" stroke-opacity="0.6" stroke-width="1.2"/>
+
+    <!-- equator + latitude lines -->
+    <ellipse cx="350" cy="130" rx="76" ry="24" fill="none" stroke="#f3f4f6" stroke-opacity="0.6" stroke-width="1"/>
+    <ellipse cx="350" cy="94"  rx="60" ry="10" fill="none" stroke="#f3f4f6" stroke-opacity="0.35" stroke-width="0.8"/>
+    <ellipse cx="350" cy="166" rx="60" ry="10" fill="none" stroke="#f3f4f6" stroke-opacity="0.35" stroke-width="0.8"/>
+
+    <!-- rotating meridians (rx oscillates to fake 3D spin) -->
+    <ellipse cx="350" cy="130" ry="76" fill="none" stroke="#e5e7eb" stroke-opacity="0.65" stroke-width="1">
+      <animate attributeName="rx" values="76;2;76" keyTimes="0;0.5;1" dur="6s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="350" cy="130" ry="76" fill="none" stroke="#d1d5db" stroke-opacity="0.6" stroke-width="1">
+      <animate attributeName="rx" values="76;2;76" keyTimes="0;0.5;1" dur="6s" begin="-1.5s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="350" cy="130" ry="76" fill="none" stroke="#e5e7eb" stroke-opacity="0.5" stroke-width="1">
+      <animate attributeName="rx" values="76;2;76" keyTimes="0;0.5;1" dur="6s" begin="-3s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="350" cy="130" ry="76" fill="none" stroke="#d1d5db" stroke-opacity="0.45" stroke-width="1">
+      <animate attributeName="rx" values="76;2;76" keyTimes="0;0.5;1" dur="6s" begin="-4.5s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- orbiting tech nodes -->
+  <g>
+    <circle r="9" fill="#60a5fa">
+      <animateMotion dur="9s" repeatCount="indefinite"
+        path="M 165,130 A 185,60 0 1,1 535,130 A 185,60 0 1,1 165,130"/>
+    </circle>
+  </g>
+  <g>
+    <circle r="9" fill="#fbbf24">
+      <animateMotion dur="7s" repeatCount="indefinite"
+        path="M 205,130 A 145,95 0 1,0 495,130 A 145,95 0 1,0 205,130"/>
+    </circle>
+  </g>
+
+</svg>
