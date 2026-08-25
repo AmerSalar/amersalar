@@ -23,7 +23,7 @@
 ## Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs," alt="Laravel, Node.js,"/>
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs" alt="Laravel, Node.js"/>
 </p>
 
 ## Frontend
