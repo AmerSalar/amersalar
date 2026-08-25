@@ -3,7 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6b46c1&height=220&section=header&text=Ameer&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer&descAlignY=58&descSize=18&descColor=e0e7ff" width="100%"/>
 
 </div>
-
+<div align="center">
+  <img src="./assets/in-the-name-of-Allah.svg" width="600" alt="animated globe"/>
+</div>
 <div align="center">
   <img src="./assets/tech-globe.svg" width="600" alt="animated globe"/>
 </div>
