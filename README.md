@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6b46c1&height=220&section=header&text=Ameer&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer&descAlignY=58&descSize=18&descColor=e0e7ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=50:007acc,75:f0db4f&height=220&section=header&text=Ameer&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer&descAlignY=58&descSize=18&descColor=e0e7ff" width="100%"/>
 
 </div>
 <div align="center">
@@ -46,4 +46,4 @@
 <br/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b46c1,50:764ba2,100:667eea&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=25:007acc,50:f0db4f&height=100&section=footer" width="100%"/>
