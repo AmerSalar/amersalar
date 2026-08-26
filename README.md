@@ -22,14 +22,16 @@
 
 ## Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs" alt="Laravel, Node.js"/>
+<p >
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs" alt="Laravel, Node.js" style="margin-right: 5px;"/>
+      <img src="https://www.jwt.io/img/pic_logo.svg" alt="JWT" width="45"/>
+
 </p>
 
 ## Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind" alt="React, Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="HTML, CSS, React, Tailwind CSS"/>
 </p>
 
 ## Databases
@@ -38,10 +40,21 @@
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,supabase" alt="MySQL, SQLite, Firebase, Supabase"/>
 </p>
 
+## Mobile
+
+<p style="display: flex; align-items: center; justify-content: center;">
+<img src="https://skillicons.dev/icons?i=react" alt="React Native" style="margin-right: 5px;"/>
+  React Native 
+  <img src="https://cdn.simpleicons.org/expo/a0a0a0" alt="NativeWind CSS" width="45" style="margin-left: 5px; margin-right:5px;"/>
+   NativeWind
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="NativeWind CSS" style="margin-left: 5px;"/>
+</p>
+
 ## Tools & Extra
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Git, GitHub, Postman, VS Code"/></p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Git, GitHub, Postman, VS Code"/>
+  </p>
 
 <br/>
 </div>
