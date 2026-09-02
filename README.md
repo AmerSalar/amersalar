@@ -50,6 +50,12 @@
   <img src="https://skillicons.dev/icons?i=tailwind" alt="NativeWind CSS" style="margin-left: 5px;"/>
 </p>
 
+## Operating System
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu" alt="Linux, Ubuntu"/>
+  </p>
+
 ## Tools & Extra
 
 <p>
