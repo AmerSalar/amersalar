@@ -43,10 +43,8 @@
 ## Mobile
 
 <p style="display: flex; align-items: center; justify-content: center;">
-<img src="https://skillicons.dev/icons?i=react" alt="React Native" style="margin-right: 5px;"/>
-  React Native 
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native" style="margin-right: 5px;"/>
   <img src="https://cdn.simpleicons.org/expo/a0a0a0" alt="NativeWind CSS" width="45" style="margin-left: 5px; margin-right:5px;"/>
-   NativeWind
   <img src="https://skillicons.dev/icons?i=tailwind" alt="NativeWind CSS" style="margin-left: 5px;"/>
 </p>
 
