@@ -63,4 +63,6 @@
 <br/>
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=amersalar&color=blue)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=25:007acc,50:f0db4f&height=100&section=footer" width="100%"/>
