@@ -48,16 +48,16 @@
   <img src="https://skillicons.dev/icons?i=tailwind" alt="NativeWind CSS" style="margin-left: 5px;"/>
 </p>
 
-## Operating System
+## DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu" alt="Linux, Ubuntu"/>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git" alt="Linux, Ubuntu, Docker, Git"/>
   </p>
 
 ## Tools & Extra
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Git, GitHub, Postman, VS Code"/>
+  <img src="https://skillicons.dev/icons?i=github,postman,vscode" alt="GitHub, Postman, VS Code"/>
   </p>
 
 <br/>
