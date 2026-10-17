@@ -1,66 +1,84 @@
 <div align="center">
+  <a name="top"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=50:007acc,75:f0db4f&height=220&section=header&text=Ameer&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer&descAlignY=58&descSize=18&descColor=e0e7ff" width="100%"/>
+  <img src="./assets/header.svg" width="600" alt="In the name of Allah"/>
+  <img src="./assets/in-the-name-of-Allah.svg" width="600" alt="In the name of Allah"/>
+  <br/>
+  <img src="./assets/tech-globe.svg" width="600" alt="Technology globe"/>
 
 </div>
-<div align="center">
-  <img src="./assets/in-the-name-of-Allah.svg" width="600" alt="animated globe"/>
-</div>
-<div align="center">
-  <img src="./assets/tech-globe.svg" width="600" alt="animated globe"/>
-</div>
-
-<br/>
 
 <div align="center">
 
-## Languages
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,java,ts,js,py,cpp" alt="PHP, Java, TypeScript, JavaScript, Python, C++"/>
+  <br/>
+  <sub>PHP • Java • TypeScript • JavaScript • Python • C++</sub>
 </p>
 
-## Backend
+### Backend
 
-<p >
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs" alt="Laravel, Node.js" style="margin-right: 5px;"/>
-      <img src="https://www.jwt.io/img/pic_logo.svg" alt="JWT" width="45"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs" alt="Laravel and Node.js"/>
+  <img src="https://www.jwt.io/img/pic_logo.svg" height="45" alt="JWT"/>
+  <br/>
+  <sub>Laravel • Node.js • JSON Web Tokens (JWT)</sub>
 </p>
 
-## Frontend
+### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="HTML, CSS, React, Tailwind CSS"/>
+  <br/>
+  <sub>HTML • CSS • React • Tailwind CSS</sub>
 </p>
 
-## Databases
+### Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,supabase" alt="MySQL, SQLite, Firebase, Supabase"/>
+  <br/>
+  <sub>MySQL • SQLite • Firebase • Supabase</sub>
 </p>
 
-## Mobile
+### Mobile
 
-<p style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://skillicons.dev/icons?i=react" alt="React Native" style="margin-right: 5px;"/>
-  <img src="https://cdn.simpleicons.org/expo/a0a0a0" alt="NativeWind CSS" width="45" style="margin-left: 5px; margin-right:5px;"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="NativeWind CSS" style="margin-left: 5px;"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native"/>
+  <img src="https://cdn.simpleicons.org/expo/a0a0a0" height="45" alt="Expo"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/>
+  <br/>
+  <sub>React Native • Expo • NativeWind / Tailwind CSS</sub>
 </p>
 
-## DevOps
+### DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git" alt="Linux, Ubuntu, Docker, Git"/>
-  </p>
+  <br/>
+  <sub>Linux • Ubuntu • Docker • Git</sub>
+</p>
 
-## Tools & Extra
+### Tools & Extra
 
 <p>
   <img src="https://skillicons.dev/icons?i=github,postman,vscode" alt="GitHub, Postman, VS Code"/>
-  </p>
+  <br/>
+  <sub>GitHub • Postman • Visual Studio Code</sub>
+</p>
 
-<br/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=25:007acc,50:f0db4f&height=100&section=footer" width="100%"/>
+<div align="center">
+
+<sub>Just a random guy, for now.</sub>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=amersalar&style=for-the-badge&color=007acc" alt="Profile views"/>
+    <img src="https://img.shields.io/github/followers/amersalar?style=for-the-badge&color=007acc&logo=github&logoColor=white" alt="GitHub followers"/>
+  </p>
+</div>
+
+  <img src="./assets/line.svg" width="600" alt="In the name of Allah"/>
