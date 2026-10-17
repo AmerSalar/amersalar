@@ -79,6 +79,5 @@
     <img src="https://komarev.com/ghpvc/?username=amersalar&style=for-the-badge&color=007acc" alt="Profile views"/>
     <img src="https://img.shields.io/github/followers/amersalar?style=for-the-badge&color=007acc&logo=github&logoColor=white" alt="GitHub followers"/>
   </p>
-</div>
-
   <img src="./assets/line.svg" width="600" alt="In the name of Allah"/>
+</div>
