@@ -2,6 +2,7 @@
   <a name="top"></a>
 
   <img src="./assets/header.svg" width="600" alt="In the name of Allah"/>
+  <br/>
   <img src="./assets/in-the-name-of-Allah.svg" width="600" alt="In the name of Allah"/>
   <br/>
   <img src="./assets/tech-globe.svg" width="600" alt="Technology globe"/>
